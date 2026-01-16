@@ -1,0 +1,9 @@
+../Core/Src/sd_diskio_dma.c:13:13:wait_transfer	2
+../Core/Src/sd_diskio_dma.c:19:6:HAL_SD_RxCpltCallback	1
+../Core/Src/sd_diskio_dma.c:25:6:HAL_SD_TxCpltCallback	1
+../Core/Src/sd_diskio_dma.c:31:6:HAL_SD_ErrorCallback	1
+../Core/Src/sd_diskio_dma.c:39:16:SD_initialize	2
+../Core/Src/sd_diskio_dma.c:49:16:SD_status	1
+../Core/Src/sd_diskio_dma.c:55:16:SD_read	6
+../Core/Src/sd_diskio_dma.c:77:16:SD_write	5
+../Core/Src/sd_diskio_dma.c:98:16:SD_ioctl	5
